@@ -1,0 +1,12 @@
+{
+  "id": "glance-button-position",
+  "name": "Glance Button Position",
+  "description": "Choose the side and vertical position of Zen's Glance buttons.",
+  "homepage": "https://github.com/YiftahCooper/zen-glance-button-position",
+  "version": "0.1.0",
+  "createdAt": "2026-09-21",
+  "updatedAt": "2026-09-21",
+  "style": { "chrome": "chrome.css" },
+  "preferences": "preferences.json",
+  "fork": ["zen"]
+}

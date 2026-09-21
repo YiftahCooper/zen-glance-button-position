@@ -1,0 +1,20 @@
+[
+  {
+    "type": "dropdown",
+    "property": "glance.position.side",
+    "label": "Button Side",
+    "defaultValue": "left",
+    "placeholder": false,
+    "options": [
+      { "label": "Left", "value": "left" },
+      { "label": "Right", "value": "right" }
+    ]
+  },
+  {
+    "type": "string",
+    "property": "glance.position.percent",
+    "label": "Vertical Position (%) — 0 Top, 50 Centre, 100 Bottom",
+    "placeholder": "Any number from 0 to 100, e.g. 37.5",
+    "defaultValue": "0"
+  }
+]
